@@ -101,6 +101,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
 </div>
 
-### Snake Eating my Works 😉###
+### 😉 Snake Eating my Works ###
 <img src="https://raw.githubusercontent.com/emonv2/emonv2/output/snake.svg" alt="Snake animation" />
 
