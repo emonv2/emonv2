@@ -101,18 +101,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   Most Use Language :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emonv2&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
+### Snake Eating my Works 😉###
 <img src="https://raw.githubusercontent.com/emonv2/emonv2/output/snake.svg" alt="Snake animation" />
 
-###
